@@ -22,7 +22,8 @@ $(document).ready(function () {
                 loop: false
             }
         }
-    });
+    })
+
     $(".featuredMembers .owl-carousel").owlCarousel({
         loop: true,
         margin: 20,
@@ -44,7 +45,7 @@ $(document).ready(function () {
                 loop: true,
             }
         }
-    });
+    })
 
     $(".salesCycle .owl-carousel").owlCarousel({
         loop: true,
@@ -67,6 +68,5 @@ $(document).ready(function () {
                 loop: true
             }
         }
-    });
+    })
 });
-
