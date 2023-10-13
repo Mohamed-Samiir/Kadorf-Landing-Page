@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="77" height="53" viewBox="0 0 77 53">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rechteck_61" data-name="Rechteck 61" width="77" height="53" transform="translate(0 0.428)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Gruppe_65" data-name="Gruppe 65" transform="translate(35 -0.428)">
+    <g id="Gruppe_64" data-name="Gruppe 64" transform="translate(-35 0)" clip-path="url(#clip-path)">
+      <path id="Pfad_76" data-name="Pfad 76" d="M5,45.286V2.777A2.278,2.278,0,0,1,7.277.5H64.009a2.278,2.278,0,0,1,2.277,2.277V45.286" transform="translate(2.857 0.285)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Pfad_78" data-name="Pfad 78" d="M72.069,36.07H4.358a.488.488,0,0,1-.4-.211L.747,31.2A1.413,1.413,0,0,1,1.96,29H74.467a1.413,1.413,0,0,1,1.213,2.2L72.473,35.86A.488.488,0,0,1,72.069,36.07Z" transform="translate(0.286 16.57)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

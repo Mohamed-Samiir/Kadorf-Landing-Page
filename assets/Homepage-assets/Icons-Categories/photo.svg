@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="62.577" height="53" viewBox="0 0 62.577 53">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rechteck_62" data-name="Rechteck 62" width="62.577" height="53" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Gruppe_67" data-name="Gruppe 67" transform="translate(0 0)">
+    <g id="Gruppe_66" data-name="Gruppe 66" transform="translate(0 0)" clip-path="url(#clip-path)">
+      <path id="Pfad_79" data-name="Pfad 79" d="M38.487,6.247,35.364,1.381A1.916,1.916,0,0,0,33.752.5H20.235a1.914,1.914,0,0,0-1.612.881L15.5,6.247" transform="translate(4.295 0.139)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Pfad_80" data-name="Pfad 80" d="M19.656,5H11.994A11.494,11.494,0,0,0,.5,16.494V39.481A11.5,11.5,0,0,0,11.994,50.976H50.306A11.494,11.494,0,0,0,61.8,39.481V16.494A11.493,11.493,0,0,0,50.306,5H42.644" transform="translate(0.139 1.386)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+      <circle id="Ellipse_7" data-name="Ellipse 7" cx="15.325" cy="15.325" r="15.325" transform="translate(15.964 14.049)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+      <circle id="Ellipse_8" data-name="Ellipse 8" cx="9.5" cy="9.5" r="9.5" transform="translate(22 20)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Linie_11" data-name="Linie 11" x2="3.831" transform="translate(48.888 15.645)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
